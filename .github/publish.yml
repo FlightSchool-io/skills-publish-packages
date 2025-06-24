@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - cd
+      - FlightSchool-io-patch-1
 permissions:
   packages: write
   contents: read
